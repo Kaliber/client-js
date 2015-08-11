@@ -1,3 +1,5 @@
+> This fork of [`WP-API/client-js`](https://github.com/WP-API/client-js) is created in order to have a stable release for a project we're using it for: the `master` is the default branch (instead of `gh-pages` on `WP-API/client-js`)
+
 Backbone.js App for JSON REST API
 ==============
 
